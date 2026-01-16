@@ -1,0 +1,17 @@
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+*.class
+*.log
+hs_err_pid*
+target/
+*.jar
+Thumbs.db
+Desktop.ini
+.env
+config.properties
+*.pdf
